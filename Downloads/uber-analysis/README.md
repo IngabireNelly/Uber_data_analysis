@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 🚖 Uber Fare Data Analysis with Power BI
 
 ![Power BI Badge](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
@@ -28,7 +28,7 @@
 
 ## 📂 Project Structure
 
-```bash
+
 Uber-Fare-Analysis/
 ├── data/
 │   ├── uber.csv
