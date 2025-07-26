@@ -42,7 +42,7 @@ Uber-Fare-Analysis/
 │   ├── dashboard.png
 ├── Uber_Fare_Analysis.ipynb
 └── README.md
-````
+
 
 ---
 
