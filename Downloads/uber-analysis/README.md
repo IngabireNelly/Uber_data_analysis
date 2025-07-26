@@ -233,11 +233,10 @@ By integrating these findings, Uber and similar platforms can improve both **ope
 
 ## 👤 Author
 ```
-** Nelly Ingabire**
+ Nelly Ingabire
  ID:27128
  AUCA – Department of Information Systems
- Instructor: Eric Maniraguha ([eric.maniraguha@auca.ac.rw](mailto:eric.maniraguha@auca.ac.rw))
-
+ Instructor: Eric Maniraguha [eric.maniraguha@auca.ac.rw]
 ---
 
 
