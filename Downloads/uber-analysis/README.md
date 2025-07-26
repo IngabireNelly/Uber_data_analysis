@@ -134,7 +134,7 @@ Source: [Uber Fares Dataset - Kaggle](https://www.kaggle.com/datasets/yasserh/ub
 ---
 
 ## 👤 Author
-
+```
 **Nelly Ingabire**
  AUCA – Department of Information Systems
  Instructor: Eric Maniraguha ([eric.maniraguha@auca.ac.rw](mailto:eric.maniraguha@auca.ac.rw))
@@ -145,6 +145,6 @@ Source: [Uber Fares Dataset - Kaggle](https://www.kaggle.com/datasets/yasserh/ub
 
 ```
 
----
+
 
 
